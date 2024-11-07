@@ -1,0 +1,57 @@
+projectName: Non-Human Identity Management Group
+jsonFilePath: ./input.json
+baseUrl: https://nhimg.org
+portalHeading: Welcome to the Non-Human Identity Management Group
+portalDescription: >-
+  A community portal providing Knowledge Centre & Guidance to help clients
+  manage Non-Human/Machine/Workload Identity Risks.
+portalTitle: Non-Human Identity Management Group - Community Portal
+searchPlaceholder: Search articles, blogs, and resources...
+useAlphabetsCategory: true
+homeLink: https://nhimg.org
+logoLink: /
+ctaText: Get Started
+aboutLink: https://nhimg.org/about
+productsLink: https://nhimg.org/products
+logoImgUrl: >-
+  https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=700,fit=crop,q=95/dOqbJe6jweHoPWVn/nhimg-logo-new-AE0p6ezbv1FPjlX8.png
+ctaLink: https://nhimg.org/general-equiry
+copyrightText: © 2024 Non-Human Identity Management Group. All rights reserved.
+faviconUrl: >-
+  https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=48,h=48,fit=crop,f=png/dOqbJe6jweHoPWVn/nhim-logo-dWxlX62EnBF111ZN.jpg
+googleTagManagerId: GTM-M6W8WFG4
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/groups/13038250/
+  - platform: YouTube
+    url: https://www.youtube.com/@NonHumanIdentityManagement
+theme:
+  primaryColor: rgb(52, 63, 176)
+  secondaryColor: rgb(255, 255, 255)
+  backgroundColor: rgb(255, 255, 255)
+  textColor: rgb(0, 0, 0)
+  accentColor: rgb(237, 99, 29)
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Montserrat
+    weights:
+      - 500
+      - 600
+      - 700
